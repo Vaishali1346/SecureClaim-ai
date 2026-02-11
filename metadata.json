@@ -1,0 +1,5 @@
+{
+  "name": "SecureClaim AI",
+  "description": "A professional enterprise-grade insurance fraud detection system utilizing XGBoost machine learning to evaluate risk across Automobile, Health, and Home insurance claims.",
+  "requestFramePermissions": []
+}
